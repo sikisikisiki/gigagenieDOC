@@ -176,7 +176,7 @@ def main():
     #sleep(2)
     text = text.split(' ')[0]
     print ("Youtube Searching Keywords : %s" % text)
-    input = 'python youtube.py --q ' + text
+    input = 'python youtube_keyword_search.py --q ' + text
     os.system(input.encode('utf-8'))
     
     
