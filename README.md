@@ -10,8 +10,8 @@ KT 기가지니 개발자 가이드 확장예제 [파이썬]
 [youtube_keyword_search.py](https://github.com/sikisikisiki/gigagenieDOC/blob/master/python/youtube_keyword_search.py)
 
 ## 예제2번 활용
-키워드 인식후, 공백이전 텍스트를 한글로 변환후
-youtube검색후 리스트 첫번째 영상 재생
+키워드 인식 -> 공백이전 텍스트를 한글로 변환 ->
+youtube검색 -> 리스트 첫번째 영상 재생
 
 [ex_youtube.py](https://github.com/sikisikisiki/gigagenieDOC/blob/master/python/ex_youtube.py)
 
