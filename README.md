@@ -5,7 +5,7 @@ Extention of GiGA Genie Developers User Guide [Python]
 
 KT 기가지니 개발자 가이드 확장예제 [파이썬]
 
-``'
+```
 
 sudo pip install --upgrade google-api-python-client
 
