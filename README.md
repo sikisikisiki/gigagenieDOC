@@ -5,6 +5,10 @@ Extention of GiGA Genie Developers User Guide [Python]
 
 KT 기가지니 개발자 가이드 확장예제 [파이썬]
 
+``
+sudo pip install --upgrade google-api-python-client
+pip install --upgrade google-api-python-client oauth2client
+``
 ## Youtube 키워드 검색 파일
 
 [youtube_keyword_search.py](https://github.com/sikisikisiki/gigagenieDOC/blob/master/python/youtube_keyword_search.py)
