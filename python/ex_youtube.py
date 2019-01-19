@@ -4,7 +4,7 @@
 """Example 2: STT - getVoice2Text """
 
 from __future__ import print_function
-from chris_youtube import *
+from youtube_keyword_search import *
 import grpc
 
 import gigagenieRPC_pb2
